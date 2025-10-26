@@ -160,7 +160,7 @@
         <mxCell id="wgLTDH14QdpL1y7HmuoE-114" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCCCCC;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-107">
           <mxGeometry x="22" y="132" width="226" height="226" as="geometry" />
         </mxCell>
-        <mxCell id="wgLTDH14QdpL1y7HmuoE-116" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#CCCCCC;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-107">
+        <mxCell id="wgLTDH14QdpL1y7HmuoE-116" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#3399FF;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-107">
           <mxGeometry x="22" y="132" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="wgLTDH14QdpL1y7HmuoE-117" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-116">
@@ -217,7 +217,7 @@
             <mxRectangle width="38" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgLTDH14QdpL1y7HmuoE-142" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#CCCCCC;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-107">
+        <mxCell id="wgLTDH14QdpL1y7HmuoE-142" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#3399FF;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-107">
           <mxGeometry x="134" y="132" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="wgLTDH14QdpL1y7HmuoE-143" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-142">
@@ -274,7 +274,7 @@
             <mxRectangle width="38" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgLTDH14QdpL1y7HmuoE-155" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#CCCCCC;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-107">
+        <mxCell id="wgLTDH14QdpL1y7HmuoE-155" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#3399FF;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-107">
           <mxGeometry x="22" y="244" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="wgLTDH14QdpL1y7HmuoE-156" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-155">
@@ -331,7 +331,7 @@
             <mxRectangle width="38" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgLTDH14QdpL1y7HmuoE-168" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#CCCCCC;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-107">
+        <mxCell id="wgLTDH14QdpL1y7HmuoE-168" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#3399FF;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-107">
           <mxGeometry x="134" y="244" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="wgLTDH14QdpL1y7HmuoE-169" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-168">
