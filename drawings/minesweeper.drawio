@@ -388,6 +388,9 @@
             <mxRectangle width="38" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wgLTDH14QdpL1y7HmuoE-241" value="&lt;h1&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot; face=&quot;Tahoma&quot;&gt;New Game&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#0000CC;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;opacity=50;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-107">
+          <mxGeometry x="55.309999999999945" y="409" width="161.38" height="36.88" as="geometry" />
+        </mxCell>
         <mxCell id="wgLTDH14QdpL1y7HmuoE-182" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="463" y="559" width="270" height="520" as="geometry" />
         </mxCell>
@@ -403,7 +406,7 @@
         <mxCell id="wgLTDH14QdpL1y7HmuoE-239" value="&lt;h1&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot; face=&quot;Tahoma&quot;&gt;You Win/Lose&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-182">
           <mxGeometry x="41" y="154" width="188" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="wgLTDH14QdpL1y7HmuoE-240" value="&lt;h1&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot; face=&quot;Tahoma&quot;&gt;PLAY AGAIN&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#0000CC;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;opacity=50;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-182">
+        <mxCell id="wgLTDH14QdpL1y7HmuoE-240" value="&lt;h1&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot; face=&quot;Tahoma&quot;&gt;New Game&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#0000CC;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;opacity=50;" vertex="1" parent="wgLTDH14QdpL1y7HmuoE-182">
           <mxGeometry x="55.31" y="286" width="161.38" height="36.88" as="geometry" />
         </mxCell>
       </root>
